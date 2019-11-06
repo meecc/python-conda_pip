@@ -40,7 +40,6 @@ dependencies:
   - pulp
   - fbprophet
   - tqdm
-  - libpython
   - pyarrow
   - fastparquet
   - tabulate
